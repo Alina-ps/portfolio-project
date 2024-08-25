@@ -5,86 +5,56 @@ https://dr-jeky11.github.io/portfolio/
 ## Table of Contents
 
 - [General Info](#general-information)
-- [Technologies Used](#technologies-used)
+- [Purpose](#purpose)
 - [Features](#features)
-- [Screenshots](#screenshots)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Project Status](#project-status)
-- [Room for Improvement](#room-for-improvement)
-- [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
-<!-- * [License](#license) -->
+- [Technologies Used](#technologies-used)
 
 ## General Information
 
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+**Project Overview**
+
+This project is a personal portfolio website designed to showcase the skills,
+projects, and professional experiences. The site is crafted to provide potential
+employers, clients, or collaborators with a comprehensive view of person's
+technical abilities, creative work, and the benefits of working together.
+
+**Purpose**
+
+The portfolio's primary goal is to create a professional online presence,
+allowing visitors to learn more about my background, skills, and completed
+projects. It is a crucial tool for networking, job applications, and client
+pitches.
+
+**Key Features**
+
+- **About Me**: Insight into my background, journey, and professional
+  philosophy.
+- **Tech Skills**: A comprehensive list of my technical proficiencies.
+- **Projects**: A showcase of my completed projects with descriptions, tech
+  stacks, and links to demos or repositories.
+- **Benefits**: Highlights of the unique value I offer as a collaborator.
+- **Reviews**: Testimonials from clients, colleagues, and mentors.
+- **FAQ**: Answers to common questions from potential collaborators.
+- **Contact Form**: Easy communication for inquiries or collaboration
+  opportunities.
 
 ## Technologies Used
 
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
-## Features
-
-List the ready features here:
-
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
-## Screenshots
-
-![Example screenshot](./img/screenshot.png)
-
-<!-- If you have screenshots you'd like to share, include them here. -->
-
-## Setup
-
-What are the project requirements/dependencies? Where are they listed? A
-requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started
-with the project.
-
-## Usage
-
-How does one go about using it? Provide various use cases and code examples
-here.
-
-`write-your-code-here`
-
-## Project Status
-
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are
-no longer working on it, provide reasons why.
-
-## Room for Improvement
-
-Include areas you believe need improvement / could be improved. Also add TODOs
-for future development.
-
-Room for improvement:
-
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-
-- Feature to be added 1
-- Feature to be added 2
-
-## Acknowledgements
-
-Give credit here.
-
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
-## Contact
+- **HTML**: Structuring the web pages.
+- **CSS**: Styling the application and ensuring responsive design.
+- **JavaScript**: Managing interactions, handling API calls, and dynamically
+  updating the UI.
+- **Vite**: A modern build tool providing fast development server start times
+  and optimized production builds.
+- **accordion-js**: For creating responsive and accessible accordion components.
+- **AOS (Animate On Scroll)**: Used for adding smooth animations when scrolling
+  through the website.
+- **axios**: A promise-based HTTP client for making API requests.
+- **iziToast**: Lightweight toast notifications for user feedback.
+- **modern-normalize**: A modern CSS reset to ensure consistent styling across
+  browsers.
+- **swiper**: A mobile-friendly slider used to create carousels or image
+  sliders.
+- **Git**: For tracking changes in the codebase and collaboration.
+- **GitHub**: Hosting the remote repository for version control and
+  collaboration.
