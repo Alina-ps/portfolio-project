@@ -15,7 +15,7 @@ https://dr-jeky11.github.io/portfolio/
 
 This project is a personal portfolio website designed to showcase the skills,
 projects, and professional experiences. The site is crafted to provide potential
-employers, clients, or collaborators with a comprehensive view of person's
+employers, clients, or collaborators with a comprehensive view of individual's
 technical abilities, creative work, and the benefits of working together.
 
 **Purpose**
